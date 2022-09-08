@@ -10,7 +10,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
 # Entregáveis
 
-<details>heroku stack:set heroku-20
+<details>
   <summary>
     <strong>🤷🏽‍♀️ Como entregar</strong>
   </summary><br>
